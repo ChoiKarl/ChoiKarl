@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Missfresh
+- 🔭 🌱 I’m currently learning Flutter
 <!--
 **ChoiKarl/ChoiKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
